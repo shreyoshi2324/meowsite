@@ -97,7 +97,7 @@ export default function Home() {
                   Why We Love Cats
                 </h2>
                 <p className="mx-auto max-w-[700px] text-amber-800 md:text-xl">
-                  Cats bring joy, companionship, and a touch of magic to our lives. Here's why we're dedicated to them.
+                  Cats bring joy, companionship, and a touch of magic to our lives. Here&apos;s why we&apos;re dedicated to them.
                 </p>
               </div>
             </div>
@@ -236,8 +236,8 @@ export default function Home() {
                   Adopt a Forever Friend
                 </h2>
                 <p className="max-w-[600px] text-amber-800 md:text-xl">
-                  Thousands of cats are waiting for a loving home. By adopting, you're not just gaining a companion –
-                  you're saving a life.
+                  Thousands of cats are waiting for a loving home. By adopting, you&apos;re not just gaining a companion –
+                  you&apos;re saving a life.
                 </p>
                 <ul className="space-y-2">
                   {["Complete screening process", "Meet available cats", "Home visit", "Adoption finalization"].map(
